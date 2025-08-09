@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
+![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 <img align="right" alt="coding" width="200" src="https://i.pinimg.com/1200x/2f/3d/f3/2f3df32d5a63ac52d0a8bd1522aadb13.jpg">
 <h1 align="center">Hi 👋, I'm Preethi</h1>
 <h3 align="center">A passionate CSE student and aspiring full-stack developer from India, specializing in API development and modern web technologies to deliver scalable, user-centric solutions.</h3>
